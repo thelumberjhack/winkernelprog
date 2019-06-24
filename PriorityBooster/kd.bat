@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\kd.exe" -k net:port=51000,key=windows.kernel.progr.amming -cfr load.kd -bonc -loga dbg.log
