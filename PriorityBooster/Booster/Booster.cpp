@@ -11,7 +11,7 @@ int Error(const char* message) {
 int main(int argc, const char** argv) {
 	if (argc < 3) {
 		printf("Usage: Booster <threadid> <priority>\n");
-		return 0:
+		return 0;
 	}
 
 	// Get a handle to the device
